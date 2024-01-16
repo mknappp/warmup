@@ -1,0 +1,2 @@
+# warmup
+Magic Square Activity
