@@ -11,8 +11,9 @@ This project is to ease back into coding after winter break. The outcome is goin
 
 
 INCLUDED FILES:
- * Class1.java - source file
- * Class2.java - source file
+ * MagicSquare.java
+ * MagicSquareDriver.java
+ * MagicSquareInterface.java
  * README - this file
 
 
@@ -42,6 +43,8 @@ COMPILING AND RUNNING:
 PROGRAM DESIGN AND IMPORTANT CONCEPTS:
 
 I will have two classes - one being my driver class (MagicSquareDriver) and the other will be a class representing a potential magic square (MagicSquare). 
+
+My java file MagicSquare.java is where the magic happens. I have two constructors, one to check existing files for magic squares and the other constructor to create new magic squares in a file with s specified size.
 
 
 
